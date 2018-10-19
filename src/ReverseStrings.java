@@ -12,7 +12,6 @@ Input: "A man, a plan, a canal: Panama"
 Output: "amanaP :lanac a ,nalp a ,nam A"
 
  */
-package com.company;
 
 import java.util.ArrayList;
 import java.util.HashMap;
